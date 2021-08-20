@@ -7,6 +7,7 @@ Além disso, ele pode selecionar diversos filtros, como país, dado a ser analis
 
 ### Integrantes do grupo
 Guilherme V. Valério - GRR20184636
+
 Gleidison dos Santos Novais - GRR20186250
 
 ### Como rodar a App Shiny
